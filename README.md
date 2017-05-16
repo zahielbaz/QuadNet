@@ -9,3 +9,7 @@ The main file ControlGen includes 3 functions:
   out[1]= numpy array of estimated control: [out_pitch, out_roll, out_throttle, out_yaw]
   
   When live testing, any image should be coded, then 3 coded consecutive images should be concatenated in order to estimate control output of the last one.
+  
+  IMPORTANT:
+  Big files are missing from the git, found them here:
+  https://drive.google.com/open?id=0B8yTY84As1spemxBTmlvNjQxYk0
